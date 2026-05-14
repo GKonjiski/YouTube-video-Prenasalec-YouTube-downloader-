@@ -1,7 +1,7 @@
 YouTube video prenašalec (YouTube Video Downloader)
 ---------------
 <img src="profilka.png" width="400">
-========================
+--------------
 
 Preprosta namizna aplikacija za prenašanje YouTube videjev z grafičnim vmesnikom.
 
