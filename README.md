@@ -1,7 +1,7 @@
 YouTube video prenašalec (YouTube Video Downloader)
 ========================
 <p align="center">
-  <img src="fotka.png" width="400">
+  <img src="profilka.png" width="400">
 </p>
 
 
