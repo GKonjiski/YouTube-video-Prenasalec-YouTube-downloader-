@@ -38,6 +38,10 @@ Ukaz za pakiranje:
 (priporočena uporaba auto-py-to-exe)
 pyinstaller --onefile --windowed --add-binary "ffmpeg.exe;." --add-data "fotka.png;." --add-data "profilka.png;." main.py
 
+![Profilka](profilka.png)
+
 LICENCA
 -------
 MIT License - prosta uporaba, kopiranje in spreminjanje kode.
+
+Avtor profilne slike: Brina Svet
