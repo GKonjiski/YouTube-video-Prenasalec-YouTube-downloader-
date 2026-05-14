@@ -46,6 +46,6 @@ pyinstaller --onefile --windowed --add-binary "ffmpeg.exe;." --add-data "fotka.p
 
 LICENCA
 -------
-MIT License - prosta uporaba, kopiranje in spreminjanje kode.
+MIT License - uporabi kot želiš.
 
 Avtor profilne slike: Brina Svet
