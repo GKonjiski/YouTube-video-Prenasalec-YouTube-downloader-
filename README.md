@@ -1,4 +1,5 @@
 YouTube video prenašalec (YouTube Video Downloader)
+<img src="profilka.png" width="400">
 ========================
 
 Preprosta namizna aplikacija za prenašanje YouTube videjev z grafičnim vmesnikom.
@@ -38,7 +39,7 @@ Ukaz za pakiranje:
 (priporočena uporaba auto-py-to-exe)
 pyinstaller --onefile --windowed --add-binary "ffmpeg.exe;." --add-data "fotka.png;." --add-data "profilka.png;." main.py
 
-<img src="profilka.png" width="400">
+
 
 LICENCA
 -------
